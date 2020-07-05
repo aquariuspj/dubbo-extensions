@@ -1,0 +1,1 @@
+dubbox=com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol

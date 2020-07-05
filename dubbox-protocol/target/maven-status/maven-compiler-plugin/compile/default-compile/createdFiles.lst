@@ -1,0 +1,10 @@
+cn\luckyee\dubbo\dubbox\protocol\ChannelWrappedInvoker$ChannelWrapper.class
+cn\luckyee\dubbo\dubbox\protocol\DecodeableRpcInvocation.class
+cn\luckyee\dubbo\dubbox\protocol\ReferenceCountExchangeClient.class
+cn\luckyee\dubbo\dubbox\protocol\DubboxProtocol$1.class
+cn\luckyee\dubbo\dubbox\protocol\DubboxCountCodec.class
+cn\luckyee\dubbo\dubbox\protocol\CallbackServiceCodec.class
+cn\luckyee\dubbo\dubbox\protocol\ChannelWrappedInvoker.class
+cn\luckyee\dubbo\dubbox\protocol\DubboxCodec.class
+cn\luckyee\dubbo\dubbox\protocol\DubboxProtocol.class
+cn\luckyee\dubbo\dubbox\protocol\LazyConnectExchangeClient.class
