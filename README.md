@@ -1,0 +1,2 @@
+# dubbo-protocol
+该方案通过扩展在dubbo下扩展出兼容dubbox的DubboxProtocol，从而在dubbo的框架下提供一种兼容dubbox的方案。
