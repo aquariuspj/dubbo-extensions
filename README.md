@@ -12,7 +12,7 @@
   - [dubbox项目调用dubbo项目](#dubbox项目调用dubbo项目)
 - [附录1 dubbo与dubbox协议相互调用的报错信息](#附录1-dubbo与dubbox协议相互调用的报错信息)
   - [1. dubbo consumer 调用 dubbox provider.](#1-dubbo-consumer-调用-dubbox-provider)
-  - [dubbox consumer 调用 duubo provider.](#dubbox-consumer-调用-duubo-provider)
+  - [2. dubbox consumer 调用 duubo provider.](#dubbox-consumer-调用-duubo-provider)
 - [附录2，DecodeableRpcInvocation.decode()方法源码对比](#附录2decodeablerpcinvocationdecode方法源码对比)
   - [dubbo DecodeableRpcInvocation](#dubbo-decodeablerpcinvocation)
   - [dubbox DecodeableRpcInvocation](#dubbox-decodeablerpcinvocation)
@@ -212,7 +212,7 @@ com.alibaba.com.caucho.hessian.io.HessianProtocolException: expected integer at 
 ```
 
 
-### dubbox consumer 调用 duubo provider.
+### 2. dubbox consumer 调用 duubo provider.
 
 dubbo provider和dubbox consumer错误信息一样，说明provider将错误信息返回给了consumer。
 
