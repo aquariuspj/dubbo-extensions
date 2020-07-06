@@ -20,11 +20,14 @@
             <scope>compile</scope>
         </dependency>
 
+        <!-- 注意，此处dubbox必须从源码进行构建后才能依赖进来，maven中央仓库中不存在此jar -->
         <!-- dubbo -->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>dubbo</artifactId>
             <version>${dubbox.version}</version>
+            <scope>system</scope>
+            <systemPath>${basedir}/../libs/dubbo-2.8.4.jar</systemPath>
         </dependency>
 
         <!-- Apache Zookeeper -->
