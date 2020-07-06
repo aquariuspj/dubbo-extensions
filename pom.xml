@@ -8,6 +8,13 @@
     <artifactId>dubbo-extensions</artifactId>
     <packaging>pom</packaging>
     <version>1.1-RELEASE</version>
+
+    <name>dubbo extensions</name>
+    <description>
+        By extending dubbox protocol under Dubbo, the project provides a solution compatible with dubbox in Dubbo framework.
+    </description>
+    <url>https://github.com/aquariuspj/dubbo-extensions</url>
+
     <modules>
         <module>dubbox-protocol</module>
         <module>dubbox-protocol-spi</module>
