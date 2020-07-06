@@ -63,7 +63,8 @@
 
 1. **在dubbox中扩展dubbox协议：** 在dubbox项目中的resource/META-INF/dubbo目录下新建com.alibaba.dubbo.rpc.Protocol文件，并填入内容`dubbox=com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol`;
 
-2. **在dubbo中扩展dubbox协议：** 引入本项目。
+2. **在dubbo中扩展dubbox协议：** 已发布到中央仓库，可以直接引入本项目。
+
     ```xml
     <dependency>
         <groupId>cn.luckyee.dubbo</groupId>
@@ -109,7 +110,8 @@
 
 1. **在dubbox中扩展dubbox协议：** 在dubbox项目中的resource/META-INF/dubbo目录下新建com.alibaba.dubbo.rpc.Protocol文件，并填入内容`dubbox=com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol`;
 
-2. **在dubbo中扩展dubbox协议：** 引入本项目。
+2. **在dubbo中扩展dubbox协议：** 已发布到中央仓库，可以直接引入本项目。
+
     ```xml
     <dependency>
         <groupId>cn.luckyee.dubbo</groupId>
