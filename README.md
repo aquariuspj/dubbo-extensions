@@ -68,7 +68,7 @@
     <dependency>
         <groupId>cn.luckyee.dubbo</groupId>
         <artifactId>dubbox-protocol-all</artifactId>
-        <version>1.0-RELEASE</version>
+        <version>1.1-RELEASE</version>
     </dependency>
     ```
 
@@ -114,7 +114,7 @@
     <dependency>
         <groupId>cn.luckyee.dubbo</groupId>
         <artifactId>dubbox-protocol-all</artifactId>
-        <version>1.0-RELEASE</version>
+        <version>1.1-RELEASE</version>
     </dependency>
     ```
 
